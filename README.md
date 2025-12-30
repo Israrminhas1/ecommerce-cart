@@ -44,7 +44,7 @@ A modern, full-featured e-commerce shopping cart application built with Laravel 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Israrminhas1/ecommerce-cart.git
 cd ecommerce-cart
 ```
 
