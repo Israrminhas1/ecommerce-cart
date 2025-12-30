@@ -139,7 +139,7 @@ For production, use a process manager like Supervisor.
 Add to crontab for scheduled jobs:
 
 ```bash
-* * * * * cd /path-to-project && php artisan schedule:run >> /dev/null 2>&1
+php artisan schedule:run
 ```
 
 ### Manual Job Dispatch
