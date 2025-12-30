@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\laragon\\\\www\\\\ecommerce-cart\")",
+      "Bash(php artisan tinker:*)"
+    ]
+  }
+}
