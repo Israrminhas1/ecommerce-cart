@@ -299,26 +299,6 @@ MAIL_FROM_NAME="${APP_NAME}"
 - `wishlists` - User wishlists
 - `low_stock_notifications` - Notification tracking
 
-## Development
-
-### Run Development Server
-
-```bash
-npm run dev
-php artisan serve
-```
-
-### Run Tests
-
-```bash
-php artisan test
-```
-
-### Code Formatting
-
-```bash
-./vendor/bin/pint
-```
 
 ## License
 
